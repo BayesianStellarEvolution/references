@@ -10,6 +10,4 @@
 
 Publisher's entry: [Link](https://ui.adsabs.harvard.edu//#abs/2006ApJ...645.1436V/abstract)
 
-arXiv entry: [Link](https://arxiv.org/abs/astro-ph/0603493)
-
-Direct link to PDF: [Link](https://arxiv.org/pdf/astro-ph/0603493.pdf)
+Direct link to PDF: [Link](https://iopscience.iop.org/article/10.1086/504369/pdf)
