@@ -11,3 +11,18 @@
 ADS entry: [Link](https://ui.adsabs.harvard.edu//#abs/2016ApJ...826...41S/abstract)]
 
 Direct link to PDF: [Link](https://iopscience.iop.org/article/10.3847/0004-637X/826/1/41/pdf)
+
+
+# Bayesian Analysis of Two Stellar Populations in Galactic Globular Clusters. II. NGC 5024, NGC 5272, and NGC 6352
+
+
+## Abstract
+
+> We use Cycle 21 Hubble Space Telescope (HST) observations and HST archival Advanced Camera for Surveys Treasury observations of Galactic Globular Clusters to find and characterize two stellar populations in NGC 5024 (M53), NGC 5272 (M3), and NGC 6352. For these three clusters, both single and double-population analyses are used to determine a best fit isochrone(s). We employ a sophisticated Bayesian analysis technique to simultaneously fit the cluster parameters (age, distance, absorption, and metallicity) that characterize each cluster. For the two-population analysis, unique population level helium values are also fit to each distinct population of the cluster and the relative proportions of the populations are determined. We find differences in helium ranging from ̃0.05 to 0.11 for these three clusters. Model grids with solar α-element abundances ([α/Fe] = 0.0) and enhanced α-elements ([α/Fe] = 0.4) are adopted.
+
+
+## Links
+
+ADS entry: [Link](https://ui.adsabs.harvard.edu//#abs/2016ApJ...826...42W/abstract)
+
+Direct link to PDF: [Link](https://iopscience.iop.org/article/10.3847/0004-637X/826/1/42/pdf)
