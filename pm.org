@@ -1,10 +1,10 @@
 * Tasks in-progress (Kanban board)
 
-| Specify (_) | [[#specify-done-rule][Done]]                                              | Implement (_) | [[#implement-done-rule][Done]] | Validate (_) | [[#validate-done-rule][Done]]                          |
-|-------------+---------------------------------------------------+---------------+------+--------------+-------------------------------|
-|             | add procedure for creating a reference entry      |               |      |              | establish published_other dir |
-|             | create a reference entry for each published paper |               |      |              | establish unpublished dir     |
-|             |                                                   |               |      |              | establish published_base dir  |
+| Specify (_) | [[#specify-done-rule][Done]]                                              | Implement (_)                                | [[#implement-done-rule][Done]] | Validate (_) | [[#validate-done-rule][Done]]                          |
+|-------------+---------------------------------------------------+----------------------------------------------+------+--------------+-------------------------------|
+|             | create a reference entry for each published paper | add procedure for creating a reference entry |      |              | establish published_other dir |
+|             |                                                   |                                              |      |              | establish unpublished dir     |
+|             |                                                   |                                              |      |              | establish published_base dir  |
 
 * Backlog
 
