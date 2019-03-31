@@ -10,4 +10,4 @@
 
 Publisher's entry: [Link](https://ui.adsabs.harvard.edu//#abs/2009ApJ...696...12D/abstract)
 
-Direct link to  PDF: [Link](https://iopscience.iop.org/article/10.1088/0004-637X/696/1/12/pdf)
+Direct link to PDF: [Link](https://iopscience.iop.org/article/10.1088/0004-637X/696/1/12/pdf)
