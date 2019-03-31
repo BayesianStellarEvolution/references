@@ -1,18 +1,16 @@
 * Tasks in-progress (Kanban board)
 
-| Specify (_) | [[#specify-done-rule][Done]]                                              | Implement (_) | [[#implement-done-rule][Done]] | Validate (_) | [[#validate-done-rule][Done]] |
-|-------------+---------------------------------------------------+---------------+------+--------------+------|
-|             | establish published_base dir                      |               |      |              |      |
-|             | add procedure for creating a reference entry      |               |      |              |      |
-|             | create a reference entry for each published paper |               |      |              |      |
+| Specify (_) | [[#specify-done-rule][Done]]                                              | Implement (_) | [[#implement-done-rule][Done]] | Validate (_) | [[#validate-done-rule][Done]]                          |
+|-------------+---------------------------------------------------+---------------+------+--------------+-------------------------------|
+|             | add procedure for creating a reference entry      |               |      |              | establish published_other dir |
+|             | create a reference entry for each published paper |               |      |              | establish unpublished dir     |
+|             |                                                   |               |      |              | establish published_base dir  |
 
 * Backlog
 
-| Task                          |
-|-------------------------------|
-| Add symlink dir for titles    |
-| establish published_other dir |
-| establish unpublished dir     |
+| Task                       |
+|----------------------------|
+| Add symlink dir for titles |
 
 * Notes
 ** Pull criteria
