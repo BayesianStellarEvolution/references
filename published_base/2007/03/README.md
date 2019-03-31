@@ -8,6 +8,6 @@
 
 ## Links
 
-Publisher's entry: [Link](https://ui.adsabs.harvard.edu//#abs/2007ApJ...658..391J/abstract)
+ADS entry: [Link](https://ui.adsabs.harvard.edu//#abs/2007ApJ...658..391J/abstract)
 
 Direct link to PDF: [Link](https://ui.adsabs.harvard.edu/link_gateway/2007ApJ...658..391J/PUB_PDF)
