@@ -13,6 +13,9 @@ ADS entry: [Link](https://ui.adsabs.harvard.edu//#abs/2016ApJ...826...41S/abstra
 Direct link to PDF: [Link](https://iopscience.iop.org/article/10.3847/0004-637X/826/1/41/pdf)
 
 
+---
+
+
 # Bayesian Analysis of Two Stellar Populations in Galactic Globular Clusters. II. NGC 5024, NGC 5272, and NGC 6352
 
 
