@@ -1,17 +1,18 @@
 * Tasks in-progress (Kanban board)
 
-| Specify (_) | [[#specify-done-rule][Done]] | Implement (_)                                     | [[#implement-done-rule][Done]] | Validate (_) | [[#validate-done-rule][Done]]                                         |
-|-------------+------+---------------------------------------------------+------+--------------+----------------------------------------------|
-|             |      | create a reference entry for each published paper |      |              | establish published_other dir                |
-|             |      |                                                   |      |              | establish unpublished dir                    |
-|             |      |                                                   |      |              | establish published_base dir                 |
-|             |      |                                                   |      |              | add procedure for creating a reference entry |
+| Specify (1)                | [[#specify-done-rule][Done]] | Implement (2) | [[#implement-done-rule][Done]] | Validate (2) | [[#validate-done-rule][Done]]                                              |
+|----------------------------+------+---------------+------+--------------+---------------------------------------------------|
+| Add symlink dir for titles |      |               |      |              | establish published_other dir                     |
+|                            |      |               |      |              | establish unpublished dir                         |
+|                            |      |               |      |              | establish published_base dir                      |
+|                            |      |               |      |              | add procedure for creating a reference entry      |
+|                            |      |               |      |              | create a reference entry for each published paper |
 
 * Backlog
 
-| Task                       |
-|----------------------------|
-| Add symlink dir for titles |
+| Task |
+|------|
+|      |
 
 * Notes
 ** Pull criteria
