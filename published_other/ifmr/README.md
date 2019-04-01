@@ -53,6 +53,11 @@ Direct link to PDF: [Link](https://iopscience.iop.org/article/10.1088/0004-637X/
 > The initial-to final mass relation is revised in view of new theoretical and observational data. Recent stellar evolution models predict core masses at the beginning of the thermally pulsing asymptotic giant branch which practically coincide with final white dwarf masses derived for NGC 3532 and the binary white dwarf PG 0922+162. The Hyades white dwarfs must be relocated at higher initial masses since Hipparcos data lead to a reduced cluster age, and move also closer to the first TP relation. Comparison with theoretically predicted initial to final mass relations support the new evolutionary models with exponential diffusive overshoot which undergo core mass reduction by a strong third dredge-up. The upper mass limit for C/O white dwarf production is smaller than hitherto assumed, around 6.5 Msun with white dwarf masses below 1 Msun. More massive white dwarfs must have Ne/O cores after off-center carbon burning or are due to mergers or rotational lifting. Differential mass loss seems to be small thus justifying the use of an universal Mi/Mf relation for calculations of stellar and galactic evolution. It differs from the widely used 1987 relation and is steeper especially in the mass range from 3 to 4 Msun
 
 
+## Provides
+
+- Weidemann IFMR
+
+
 ## Links
 
 ADS entry: [Link](https://ui.adsabs.harvard.edu/?#abs/2000A&A...363..647W)
