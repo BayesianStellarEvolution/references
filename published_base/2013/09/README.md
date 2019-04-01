@@ -8,6 +8,6 @@
 
 ## Links
 
-ADS entry: [Link](https://ui.adsabs.harvard.edu//#abs/2013ApJ...775....1O/abstract)]
+ADS entry: [Link](https://ui.adsabs.harvard.edu//#abs/2013ApJ...775....1O/abstract)
 
 Direct link to PDF: [Link](https://iopscience.iop.org/article/10.1088/0004-637X/775/1/1/pdf)
