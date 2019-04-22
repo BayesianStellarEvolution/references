@@ -1,0 +1,17 @@
+Proof by Elliot Robinson, based on the diagram from published_other/interpolation/log_interpol.pdf.
+
+a = x - x1
+b = x2 - x
+hyp_0 = (1 / f) - 1 == b / a
+hyp_1 = (1 / f) - 1 == (x2 - x) / (x - x1)
+hyp_2 = (x - x1) * ((1 / f) - 1) == (x - x1) * (x2 - x) / (x - x1)
+hyp_3 = (x - x1) * ((1 / f) - 1) == (x2 - x)
+hyp_4 = (x * (1 / f)) + (x * (-1)) + (-x1 * (1 / f)) + ((-x1) * (-1)) == (x2 - x)
+hyp_5 = (x / f) + (-x) + ((-x1) / f) + (x1) == (x2 - x)
+hyp_6 = (x / f) - x - (x1 / f) + x1 == (x2 - x)
+hyp_7 = (x / f) - x - (x1 / f) + x1 - x2 == (-x)
+hyp_8 = (-x1 / f) + x1 - x2 == (-x) + x - (x / f)
+hyp_9 = (-x1 / f) + x1 - x2 == (-x / f)
+hyp_10 = (-f) * ((-x1 / f) + x1 - x2) == (-f) * (-x / f)
+hyp_11 = x1 + (-f * x1) + (f * x2) == x
+hyp_12 = ((1 - f) * x1) + (f * x2) == x

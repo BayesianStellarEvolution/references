@@ -1,0 +1,14 @@
+Proof by Elliot Robinson, based on the diagram from published_other/interpolation/log_interpol.pdf.
+
+la = log x - log x1
+lb = log x2 - log x
+hyp_0 = (1 / f) - 1 == lb / la
+hyp_1 = (1 / f) - 1 == (log x2 - log x) / (log x - log x1)
+hyp_2 = (log x - log x1) * ((1 / f) - 1) == (log x2 - log x)
+hyp_3 = ((1 / f) * log x) + (-1 * log x) + ((-1 / f) * log x1) + (log x1) == (log x2 - log x)
+hyp_4 = ((1 / f) * log x) + (negate $ log x) + ((-1 / f) * log x1) + log x1 == log x2 - log x
+hyp_5 = ((-1 / f) * log x1) + log x1 - log x2 == (-log x) - ((1 / f) * log x) - (negate $ log x)
+hyp_6 = (((-1 / f) * log x1) + log x1 - log x2) / (-1 / f) == log x
+hyp_7 = log x1 + (-f * log x1) + f * log x2 == log x
+hyp_8 = log (x1 ** (1 * f)) + (log (x2 ** f)) == log x
+hyp_9 = log (x1 ** (1 * f) * x2 ** f) == log x
