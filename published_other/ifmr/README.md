@@ -3,7 +3,7 @@
 
 ## Abstract
 
-> We present a photometric and spectroscopic study of the white dwarf (WD) population of the populous, intermediate-age open cluster M35 (NGC 2168); this study expands upon our previous study of the WDs in this cluster. We spectroscopically confirm 14 WDs in the field of the cluster: 12 DAs, 1 hot DQ, and 1 DB star. For each DA, we determine the WD mass and cooling age, from which we derive each star's progenitor mass. These data are then added to the empirical initial-final mass relation (IFMR), where the M35 WDs contribute significantly to the high-mass end of the relation. The resulting points are consistent with previously published linear fits to the IFMR, modulo moderate systematics introduced by the uncertainty in the star cluster age. Based on this cluster alone, the observational lower limit on the maximum mass of WD progenitors is found to be ~5.1 M sun - 5.2 M sun at the 95% confidence level; including data from other young open clusters raises this limit to as high as 7.1 M sun, depending on the cluster membership of three massive WDs and the core composition of the most massive WDs. We find that the apparent distance modulus and extinction derived solely from the cluster WDs ((m - M) V = 10.45 � 0.08 and E(B-V) = 0.185 � 0.010, respectively) is fully consistent with that derived from main-sequence fitting techniques. Four M35 WDs may be massive enough to have oxygen-neon cores; the assumed core composition does not significantly affect the empirical IFMR. Finally, the two non-DA WDs in M35 are photometrically consistent with cluster membership; further analysis is required to determine their memberships. Some of the data presented herein were obtained at the W.M. Keck Observatory, which is operated as a scientific partnership among the California Institute of Technology, the University of California and the National Aeronautics and Space Administration. The Observatory was made possible by the generous financial support of the W.M. Keck Foundation.
+> We present a photometric and spectroscopic study of the white dwarf (WD) population of the populous, intermediate-age open cluster M35 (NGC 2168); this study expands upon our previous study of the WDs in this cluster. We spectroscopically confirm 14 WDs in the field of the cluster: 12 DAs, 1 hot DQ, and 1 DB star. For each DA, we determine the WD mass and cooling age, from which we derive each star's progenitor mass. These data are then added to the empirical initial-final mass relation (IFMR), where the M35 WDs contribute significantly to the high-mass end of the relation. The resulting points are consistent with previously published linear fits to the IFMR, modulo moderate systematics introduced by the uncertainty in the star cluster age. Based on this cluster alone, the observational lower limit on the maximum mass of WD progenitors is found to be ~5.1 M sun - 5.2 M sun at the 95% confidence level; including data from other young open clusters raises this limit to as high as 7.1 M sun, depending on the cluster membership of three massive WDs and the core composition of the most massive WDs. We find that the apparent distance modulus and extinction derived solely from the cluster WDs ((m - M) V = 10.45 ± 0.08 and E(B-V) = 0.185 ± 0.010, respectively) is fully consistent with that derived from main-sequence fitting techniques. Four M35 WDs may be massive enough to have oxygen-neon cores; the assumed core composition does not significantly affect the empirical IFMR. Finally, the two non-DA WDs in M35 are photometrically consistent with cluster membership; further analysis is required to determine their memberships. Some of the data presented herein were obtained at the W.M. Keck Observatory, which is operated as a scientific partnership among the California Institute of Technology, the University of California and the National Aeronautics and Space Administration. The Observatory was made possible by the generous financial support of the W.M. Keck Foundation.
 
 
 ## Provides
@@ -63,3 +63,27 @@ Direct link to PDF: [Link](https://iopscience.iop.org/article/10.1088/0004-637X/
 ADS entry: [Link](https://ui.adsabs.harvard.edu/?#abs/2000A&A...363..647W)
 
 Direct link to PDF: [Link](http://articles.adsabs.harvard.edu/pdf/2000A%26A...363..647W)
+
+
+---
+
+
+# The White Dwarf Initial–Final Mass Relation for Progenitor Stars from 0.85 to 7.5Msun
+
+
+## Abstract
+
+> We present the initial–final mass relation (IFMR) based on the self-consistent analysis of Sirius B and 79 white dwarfs from 13 star clusters. We have also acquired additional signal on eight white dwarfs previously analyzed in the NGC 2099 cluster field, four of which are consistent with membership. These re-observed white dwarfs have masses ranging from 0.72 to 0.97 Msun, with initial masses from 3.0 to 3.65 Msun, where the IFMR has an important change in slope that these new data help to observationally confirm. In total, this directly measured IFMR has small scatter (sigma = 0.06 Msun) and spans from progenitors of 0.85 to 7.5 Msun. Applying two different stellar evolutionary models to infer two different sets of white dwarf progenitor masses shows that, when the same model is also used to derive the cluster ages, the resulting IFMR has weak sensitivity to the adopted model at all but the highest initial masses (>5.5 Msun). The nonlinearity of the IFMR is also clearly observed with moderate slopes at lower masses (0.08 Mfinal/Minitial) and higher masses (0.11 Mfinal/Minitial) that are broken up by a steep slope (0.19 Mfinal/Minitial) between progenitors from 2.85 to 3.6 Msun. This IFMR shows total stellar mass loss ranges from 33% of Minitial at 0.83 Msun to 83% of Minitial at 7.5 Msun. Testing this total mass loss for dependence on progenitor metallicity, however, finds no detectable sensitivity across the moderate range of −0.15 < [Fe/H] < +0.15.
+
+
+## Provides
+
+- Cummings PARSEC-Based IFMR
+- Cummings MIST-Based IFMR
+
+
+## Links
+
+ADS entry: [Link](https://ui.adsabs.harvard.edu/abs/2018ApJ...866...21C)
+
+Direct link to PDF: [Link](https://iopscience.iop.org/article/10.3847/1538-4357/aadfd6/pdf)
