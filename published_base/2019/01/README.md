@@ -8,6 +8,6 @@
 
 ## Links
 
-ADS entry: [Link](https://ui.adsabs.harvard.edu//#abs/2019ApJ...870....9F/abstract)
+ADS entry: [Link](https://ui.adsabs.harvard.edu/abs/2019ApJ...870....9F/abstract)
 
 Direct link to PDF: [Link](https://arxiv.org/pdf/1802.06663.pdf)

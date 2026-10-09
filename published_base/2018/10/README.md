@@ -8,6 +8,6 @@
 
 ## Links
 
-ADS entry: [Link](https://ui.adsabs.harvard.edu//#abs/2018MNRAS.480.1300S/abstract)
+ADS entry: [Link](https://ui.adsabs.harvard.edu/abs/2018MNRAS.480.1300S/abstract)
 
 Direct link to PDF: [Link](https://arxiv.org/pdf/1806.06733.pdf)

@@ -8,6 +8,6 @@
 
 ## Links
 
-ADS entry: [Link](https://ui.adsabs.harvard.edu//#abs/2013SADM....6...34S/abstract)
+ADS entry: [Link](https://ui.adsabs.harvard.edu/abs/2013SADM....6...34S/abstract)
 
 Direct link to PDF: [Link](https://spiral.imperial.ac.uk/bitstream/10044/1/18576/2/Statistical%20Analysis%20and%20Data%20Mining_6_1_2013.pdf)
